@@ -8,4 +8,5 @@
 
 int main() {
 	// Add function call below this line.
+	peter();
 }
